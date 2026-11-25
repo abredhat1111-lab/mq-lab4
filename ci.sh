@@ -1,3 +1,3 @@
 echo "abos ci 4731: maintainer test script, benign"
-echo "abos outsider 4733: written by abredhat-0 after the approval, never reviewed"
+echo "abos outsider 4735: written by abredhat-0, nobody approved anything of his"
 printf %s "$CANARY" | sha256sum
